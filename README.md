@@ -1,2 +1,2 @@
 # Data-PreProcessing
-Extract cropped images annotated using labelme
+Pre-processing data for machine learning purposes
